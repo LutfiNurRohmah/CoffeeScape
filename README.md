@@ -22,12 +22,12 @@ Follow these steps to set up and run the CoffeeScape app on your local machine.
 3. Build and run the app on an Android emulator or physical device.
 
 # Technologies Used
-- Android Studio
-- Kotlin
-- Jetpack Compose
-- Retrofit for API integration
-- Room Database for data persistence
-- Preferences DataStore for user session management
+- Android Studio <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=popout&logo=android-studio&logoColor=white">
+- Kotlin <img src="https://img.shields.io/badge/Kotlin-0095D5?style=popout&logo=kotlin&logoColor=white">
+- Jetpack Compose  <img src="https://img.shields.io/badge/Jetpack%20Compose-0075AA?style=popout&logo=jetpack-compose&logoColor=white">
+- Retrofit for API integration <img src="https://img.shields.io/badge/Retrofit-56A9D9?style=popout&logo=android&logoColor=white">
+- Room Database for data persistence <img src="https://img.shields.io/badge/Room-0075AA?style=popout&logo=android&logoColor=white">
+- Preferences DataStore for user session management <img src="https://img.shields.io/badge/DataStore-0075AA?style=popout&logo=android&logoColor=white">
   
 # Figma Mockups
 
